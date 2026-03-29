@@ -1,6 +1,6 @@
 - 🚀 Hello, I'm Tajvir! 👋
 
-🎓 Computer Science & Engineering Graduate | 💻 Full-Stack Developer | 📱 Mobile & Web Enthusiast
+🎓 Computer Science & Engineering Graduate | 💻 Data Engineer 
 
 🔹 Passionate about building scalable applications
 🔹 Experienced in Java, JavaScript, PHP, MySQL, and more
